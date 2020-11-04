@@ -2,8 +2,6 @@
 
 int main() {
     
-    //Making edits to this code for example of assignment
-    
     int a;
     int b;
     
